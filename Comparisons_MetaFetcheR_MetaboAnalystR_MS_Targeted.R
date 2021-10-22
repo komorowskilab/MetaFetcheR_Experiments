@@ -2,6 +2,7 @@ library(MetaboAnalystR)
 library(metafetcher)
 library(xlsx)
 library(dplyr)
+library(ggplot2)
 #---------------for Comparing MetaFetcheR with MetaboAnalyst results using Diamanti et al (case 2) and also (Metafetcher results and manual curation)(case 1) -------------------------
 #This following script is used for for Comparison 1 Comparing with MetaboAnalyst results using Diamanti et al (case 2) and also (Metafetcher results and manual curation)(case 1)
 
